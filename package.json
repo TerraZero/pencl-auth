@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/TerraZero/pencl-auth#readme",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^8.5.1",
     "pencl-database": "git+https://github.com/TerraZero/pencl-database.git",
     "pencl-router": "git+https://github.com/TerraZero/pencl-router.git"
   }
