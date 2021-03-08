@@ -1,0 +1,23 @@
+{
+  "name": "pencl-auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TerraZero/pencl-auth.git"
+  },
+  "author": "TerraZero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TerraZero/pencl-auth/issues"
+  },
+  "homepage": "https://github.com/TerraZero/pencl-auth#readme",
+  "dependencies": {
+    "pencl-database": "git+https://github.com/TerraZero/pencl-database.git",
+    "pencl-router": "git+https://github.com/TerraZero/pencl-router.git"
+  }
+}
