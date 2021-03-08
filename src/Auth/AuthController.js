@@ -52,7 +52,6 @@ module.exports = class AuthController extends ControllerBase {
   constructor(config) {
     super();
     this._config = config;
-    config.tables.
   }
 
   /**
